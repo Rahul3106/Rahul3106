@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul 👋  
 
 - 🎓 B.Tech CSE @ JNU (2028)  
-- 💻 Problem-solving enthusiast (150+ LeetCode problems)  
+- 💻 Problem-solving enthusiast (200+ LeetCode problems)  
 - 🌱 Currently exploring AI, Graph Theory & Full-Stack Development  
 - ⚡ Love coding challenges, cricket, and creating projects  
 
