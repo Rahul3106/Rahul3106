@@ -1,43 +1,84 @@
 # Hi, I'm Rahul 👋  
 
-🎓 **B.Tech CSE @ JNU (2028)**  
-💻 Strong in **problem solving (200+ LeetCode problems)**  
-🌱 Currently learning **AI, Graph Theory & Full-Stack Development**  
-⚡ Interested in coding challenges, cricket, and building real projects  
+🎓 **B.Tech in Computer Science & Engineering @ JNU (2028)**  
+💻 Strong foundation in **Data Structures & Algorithms**  
+🧠 Solved **250+ problems on LeetCode**  
+🏅 **Codeforces Pupil (1200+ rating)**  
+🌱 Currently focusing on **React, Vite, Backend fundamentals & Graph Theory**  
+⚡ I enjoy building projects, solving coding challenges, and playing cricket  
 
 ---
 
 ## 🛠 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+**Languages**
+- C++
+- Python
+- JavaScript  
+
+**Frontend**
+- React
+- Vite
+- HTML, CSS  
+
+**Backend & Database**
+- Node.js
+- MongoDB
+- SQL  
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux (basic)
 
 ---
 
-## 🚀 Currently Working On
-- React + Vite projects  
-- AI-powered mini tools  
-- Strengthening DSA, Graph Theory & Backend fundamentals  
+## 🚀 What I’m Working On
+- 🛒 **E-commerce Web App (React + Vite)**  
+  - Component-based architecture  
+  - Product listing & cart logic  
+  - Clean folder structure & reusable UI  
+
+- 🤖 **Mini AI / Logic-based tools**  
+- 📚 Strengthening **Graph Theory & Core CS fundamentals**  
+- 🧩 Daily **DSA & Competitive Programming practice**  
 
 ---
 
-## 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=radical&cache_seconds=1800)
+## 📌 Competitive Programming
+- 🟢 **Codeforces:** Pupil (1200+ rating)  
+- 🟠 **LeetCode:** 250+ problems solved  
+- Focus on problem-solving, patterns, and algorithmic thinking  
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Rahul3106&theme=radical&hide_border=true)
+## 📌 Featured Projects
+> (Pinned repositories on my GitHub)
+
+- **React E-commerce Project**  
+  Frontend-focused project using React & Vite with clean UI and modular components.
+
+- **JavaScript Practice Projects**  
+  Logic building, DOM manipulation, and fundamentals.
+
+- **DSA & Problem Solving Repository**  
+  Well-structured solutions with clear logic.
+
+👉 *More projects coming as I progress.*
+
+---
+
+## 📊 GitHub Activity (Text-based, reliable)
+- ✅ Regular commits across multiple repositories  
+- ✅ Active learning through projects & experiments  
+- ✅ Clean commit history with meaningful messages  
+
+> ⚠️ *GitHub stats widgets may not render due to ad-blockers or caching issues.*
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul3106)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_0831)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul3106)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_0831)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Rahul3106)
 
 ---
@@ -47,5 +88,6 @@
 
 ---
 
-## 🧠 Fun Fact
-> I value **clear logic, clean commits, and code that explains itself**.
+## 🧠 Philosophy
+> I believe in **clear logic, clean commits, and code that explains itself**.  
+> I focus on **fundamentals first, tools second, hype last**.
