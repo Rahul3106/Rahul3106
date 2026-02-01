@@ -3,8 +3,7 @@
 🎓 **B.Tech in Computer Science & Engineering @ JNU (2028)**  
 💻 Strong foundation in **Data Structures & Algorithms**  
 🧠 Solved **250+ problems on LeetCode**  
-🏅 **Codeforces Pupil (1200+ rating)**  
-🌱 Currently focusing on **React, Vite, Backend fundamentals & Graph Theory**  
+🏅 **Codeforces Pupil (1200+ rating)**    
 ⚡ I enjoy building projects, solving coding challenges, and playing cricket  
 
 ---
@@ -32,15 +31,31 @@
 
 ---
 
-## 🚀 What I’m Working On
-- 🛒 **E-commerce Web App (React + Vite)**  
-  - Component-based architecture  
-  - Product listing & cart logic  
-  - Clean folder structure & reusable UI  
+🚀 What I’m Working On
 
-- 🤖 **Mini AI / Logic-based tools**  
-- 📚 Strengthening **Graph Theory & Core CS fundamentals**  
-- 🧩 Daily **DSA & Competitive Programming practice**  
+🧠 FlowSense — Cognitive Alignment & Focus Analysis System
+
+Chrome extension for intent-aware behavioral sensing
+
+Real-time cognitive state detection (alignment, drift, fatigue, recovery)
+
+Privacy-first design (metadata only, no content tracking)
+
+React + Vite dashboard for timelines, alignment curves & cognitive fingerprint
+
+🛒 E-commerce Web App (React + Vite)
+
+Component-driven architecture
+
+Product listing, cart logic & state management
+
+Clean folder structure with reusable UI components
+
+🤖 Mini AI / Logic-Based Tools
+
+Experimenting with rule-based reasoning and lightweight ML logic
+
+🧩 Daily DSA & Competitive Programming Practice 
 
 ---
 
