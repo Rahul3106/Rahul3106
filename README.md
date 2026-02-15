@@ -26,15 +26,18 @@
 
 ## 📊 GitHub Stats & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul3106&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul3106&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" width="49%"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul3106&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rahul3106&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
 
 ---
 
