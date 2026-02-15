@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I'm Working On
 
 🧠 **FlowSense — Cognitive Alignment & Focus Analysis System**
 
@@ -71,13 +71,13 @@
 
 > (Pinned repositories on my GitHub)
 
-* **React E-commerce Project**
+* **React E-commerce Project**  
   Frontend-focused project using React & Vite with clean UI and modular components.
 
-* **JavaScript Practice Projects**
+* **JavaScript Practice Projects**  
   Logic building, DOM manipulation, and fundamentals.
 
-* **DSA & Problem Solving Repository**
+* **DSA & Problem Solving Repository**  
   Well-structured solutions with clear logic.
 
 👉 *More projects coming as I progress.*
@@ -86,25 +86,33 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul3106\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul3106\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul3106&theme=tokyonight&hide_border=true)
+
+---
+
+## 💻 Language Statistics Across All Repositories
+
+![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&theme=tokyonight&hide_border=true&langs_count=10)
+
+*Percentage breakdown of languages used across all public repositories*
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/rahul3106)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/u/Rahul_0831)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&logoColor=white)](https://github.com/Rahul3106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul3106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_0831)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Rahul3106)
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rahul3106\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rahul3106&color=blue)
 
 ---
 
