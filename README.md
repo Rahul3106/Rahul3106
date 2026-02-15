@@ -92,13 +92,44 @@
 
 ---
 
-## 💻 Language Usage Statistics
+## 💻 Language & Technology Proficiency
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🔷 C++</h3>
+<p><strong>Primary Use:</strong> Competitive Programming & DSA</p>
+<p>⭐⭐⭐⭐⭐</p>
+<p><em>250+ LeetCode problems solved</em></p>
+</td>
+<td align="center" width="33%">
+<h3>💛 JavaScript</h3>
+<p><strong>Primary Use:</strong> Full-Stack Web Development</p>
+<p>⭐⭐⭐⭐</p>
+<p><em>React, Node.js, Modern Web Apps</em></p>
+</td>
+<td align="center" width="33%">
+<h3>🐍 Python</h3>
+<p><strong>Primary Use:</strong> Scripting & Backend</p>
+<p>⭐⭐⭐⭐</p>
+<p><em>Automation & Data Processing</em></p>
+</td>
+</tr>
+</table>
 
-**Alternative Language Stats:**
+### 🎯 Tech Stack Breakdown
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&theme=tokyonight&hide_border=true&layout=donut)](https://github.com/Rahul3106)
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, Vite, HTML5, CSS3, JavaScript (ES6+) |
+| **Backend** | Node.js, Express, REST APIs |
+| **Databases** | MongoDB, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux |
+| **Focus Areas** | DSA, Problem Solving, System Design |
+
+<p align="center">
+  <em>💡 Explore detailed code examples across my <a href="https://github.com/Rahul3106?tab=repositories">repositories</a></em>
+</p>
 
 ---
 
