@@ -84,7 +84,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -92,9 +92,13 @@
 
 ---
 
-## 💻 Most Used Languages
+## 💻 Language Usage Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true)
+
+**Alternative Language Stats:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&theme=tokyonight&hide_border=true&layout=donut)](https://github.com/Rahul3106)
 
 ---
 
