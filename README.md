@@ -8,6 +8,36 @@
 
 ---
 
+## Skills
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+</p>
+
+---
+
+## Live Widgets
+
+<p align="center">
+  <a href="https://github.com/Rahul3106">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@Rahul3106/b8e65d65-8e17-4e2e-95c7-f9dd54f7e7ce.png" alt="Languages" width="600"/>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
