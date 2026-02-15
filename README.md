@@ -88,17 +88,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul3106&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul3106&theme=tokyonight&hide_border=true)
 
 ---
 
-## 💻 Language Statistics Across All Repositories
+## 💻 Most Used Languages
 
-![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&theme=tokyonight&hide_border=true&langs_count=10)
-
-*Percentage breakdown of languages used across all public repositories*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
