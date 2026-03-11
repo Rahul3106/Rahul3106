@@ -31,6 +31,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul3106&theme=tokyonight&hide_border=true)
 
+![GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul3106&theme=tokyonight&hide_border=true)
+
 
 </div>
 
@@ -136,6 +138,7 @@
 <p><em>Automation & Data Processing</em></p>
 </td>
 </tr>
+
 </table>
 
 ### 🎯 Tech Stack Breakdown
